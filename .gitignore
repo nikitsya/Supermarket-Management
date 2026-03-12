@@ -23,3 +23,8 @@ Homestead.json
 Homestead.yaml
 Thumbs.db
 .env
+
+# Word temporary files
+~$*.docx
+~$*.doc
+*.tmp
